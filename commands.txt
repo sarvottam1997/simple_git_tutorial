@@ -1,0 +1,6 @@
+list of all commands that i have learned so far:
+git init
+git add . /git add <file_name>
+git status
+git commit -m "commit_message"
+git diff
